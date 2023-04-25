@@ -7,12 +7,15 @@ This repository holds the editable file and current image files for the Drupal F
 ![Drupal Form API Workflow Diagram](https://raw.githubusercontent.com/Metadrop/drupal-form-api-workflow-diagram/main/Drupal_Form_AP_workflow.png?raw=true)
 
 
-
 # Contribution
 
 This repository is open to amendments or modifications, please use the Issues tab.
 
 Use [Diagrams.net](https://app.diagrams.net/) to edit the diagram.
+
+## How to export
+
+Export the diagram either as a SVG or PNG. In both cases, set Border Width option to 20. Do not include a copy of the diagram. Leave other options untouched.
 
 ## License
 
